@@ -36,6 +36,7 @@ The simulation includes:
 Robotic automation has revolutionized modern **automotive production, ensuring high precision, efficiency, and scalability**. This project simulates a car assembly line using **RoboDK**, where two **KUKA robotic arms** perform **door and windshield** installation in a structured two-stage process.
 
 The main objective of this project is to demonstrate the automation potential of robotic arms in a car manufacturing setting. Using conveyors, robotic arms, and precise inverse kinematics programming, the project successfully replicates a real-world car assembly line.
+![image](https://github.com/user-attachments/assets/c9cec4cc-4154-41b4-bb35-a4db89e635eb)
 
 **Key Features**
 
