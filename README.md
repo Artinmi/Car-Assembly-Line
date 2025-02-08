@@ -25,7 +25,8 @@ The simulation includes:
 4. [Programming](#Programming)
 5. [Challenges](#Challenges)
 6. [Usage](#usage)
-7. [Credits](#credits)
+7. [Conclusion](#Conclusion)
+8. [Credits](#credits)
 
 
 ## Introduction
@@ -158,6 +159,25 @@ This simulation showcases how robotic automation can improve efficiency in autom
   - Integration of AI-based error detection for quality control
   -Optimization of robotic arm speed and trajectory planning
   -Expansion to include additional assembly tasks
+
+## Credits
+This project was developed by:
+- **Artin Mokhtariha** & **Taha Faghani** – Design, Optimization, Programming(Python and Arduino) ,and setup installation.
+- **Negar Asadi** – 3D Printing and Assembly
+
+
+### Contributions
+Contributions are always welcome! If you'd like to improve the project or add new features:
+1. Fork this repository.
+2. Create a new branch for your feature or fix.
+3. Submit a pull request for review.
+
+### Contact
+If you have any questions or suggestions, feel free to reach out:
+
+- Artin Mokhtariha - [artin1382mokhtariha@gmail.com](mailto:artin1382mokhtariha@gmail.com)
+- GitHub: [Artinmi](https://github.com/Artinmi)
+- Linkedin Post: [Clich here](https://github.com/Artinmi)
 
 
 
