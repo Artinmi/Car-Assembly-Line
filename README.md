@@ -2,11 +2,11 @@
 This repository contains a simulation of an **automated Car Assembly Line** built using **RoboDK**, where **robotic arms** perform **precise and efficient** installation of car doors and the front windshield. The project demonstrates the potential of robotic automation in automotive manufacturing, leveraging **inverse kinematics** for **high-precision assembly**.
 
 <p align="center">
-  <img src="https://github.com/Artinmi/Car-Assembly-Line/blob/master/Video/Door_Assemble_Video%20(1).gif" width="45%" alt="Leg"/>
+  <img src="https://github.com/Artinmi/Car-Assembly-Line/blob/master/Video/Door_Assemble_Video%20(1).gif" width="75%" alt="Leg"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Artinmi/Car-Assembly-Line/blob/master/Video/Front_Shield_Assemble_Video-ezgif.com-video-to-gif-converter.gif" width="45%" alt="Leg"/>
+  <img src="https://github.com/Artinmi/Car-Assembly-Line/blob/master/Video/Front_Shield_Assemble_Video-ezgif.com-video-to-gif-converter.gif" width="75%" alt="Leg"/>
 </p>
 The simulation includes:
 
