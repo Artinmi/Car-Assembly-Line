@@ -1,6 +1,7 @@
 # 🚗⚙️🤖 Car Assembly Line Simulation in RoboDK
 This repository contains a simulation of an **automated Car Assembly Line** built using **RoboDK**, where **robotic arms** perform **precise and efficient** installation of car doors and the front windshield. The project demonstrates the potential of robotic automation in automotive manufacturing, leveraging **inverse kinematics** for **high-precision assembly**.
 
+assemble line
 <p align="center">
   <img src="https://github.com/Artinmi/Car-Assembly-Line/blob/master/Video/Door_Assemble_Video-ezgif.com-video-to-gif-converter%2022.gif" width="90%" alt="Leg"/>
 </p>
