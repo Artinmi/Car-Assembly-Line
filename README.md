@@ -185,7 +185,7 @@ If you have any questions or suggestions, feel free to reach out:
 
 - Artin Mokhtariha - [artin1382mokhtariha@gmail.com](mailto:artin1382mokhtariha@gmail.com)
 - GitHub: [Artinmi](https://github.com/Artinmi)
-- Linkedin Post: [Clich here]()
+- Linkedin Post: [Clich here](https://www.linkedin.com/posts/artin-mokhtariha-759a3b330_robotics-automation-industry40-activity-7299785335671001089-mAX6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNyeXUB6479aH_0wPzDbWZ12iBe6E7NgQk)
 
 
 
